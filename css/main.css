@@ -28,6 +28,7 @@ table.contents{
 table.contents th,table.contents td{
   padding: 10px 0;
   text-align: center;
+  width: calc(100% / 3);
 }
 
 table.contents tr:nth-child(odd){
