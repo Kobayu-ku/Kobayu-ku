@@ -1,5 +1,5 @@
 main{
-  color: #222222;
+  color: #444444;
 }
 table{
   width: 100%;
@@ -13,17 +13,17 @@ table th,table td{
 }
 
 table tr:nth-child(odd){
-  background-color: #eee
+  background-color: #eee;
 }
 
 h1{
   font-family: 'Source Sans Pro', sans-serif;
-  font-size: xx-large
+  font-size: xx-large;
 }
 
 h2{
   font-family: 'Source Sans Pro', sans-serif;
-  font-size: large
+  font-size: large;
 }
 
 .sentence{
