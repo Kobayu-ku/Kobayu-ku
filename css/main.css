@@ -1,3 +1,6 @@
+main{
+  color: #222222;
+}
 table{
   width: 100%;
   border-collapse: collapse;
@@ -24,6 +27,5 @@ h2{
 }
 
 .sentence{
-  color: #222222;
   padding-left: 7.5px;
 }
