@@ -1,6 +1,21 @@
 main{
   color: #444444;
 }
+table.title{
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+table.title th,table.title td{
+  padding: 10px 0;
+  text-align: center;
+}
+
+table.title tr:nth-child(odd){
+  background-color: #444;
+  color: #fff;
+}
 table.contents{
   width: 100%;
   border-collapse: collapse;
