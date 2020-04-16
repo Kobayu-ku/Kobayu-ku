@@ -12,3 +12,13 @@ table th,table td{
 table tr:nth-child(odd){
   background-color: #eee
 }
+
+h1{
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: xx-large
+}
+
+h2{
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: x-large
+}
