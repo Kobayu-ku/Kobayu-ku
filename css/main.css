@@ -1,18 +1,18 @@
 main{
   color: #444444;
 }
-table{
+table.contents{
   width: 100%;
   border-collapse: collapse;
   border-spacing: 0;
 }
 
-table th,table td{
+table.contents th,table.contents td{
   padding: 10px 0;
   text-align: center;
 }
 
-table tr:nth-child(odd){
+table.contents tr:nth-child(odd){
   background-color: #eee;
 }
 
